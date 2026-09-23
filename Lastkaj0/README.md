@@ -1,6 +1,6 @@
-# *Lastkaj 0*
+# ***Lastkaj 0***
 
-<img src="Images\DAAC-Logo-Vector_Logo.png" width="50%"/>
+<img src="images/SGA_POSTER_LASTKAJ0.jpg" width="50%"/>
 
 [Website](https://yrgo.itch.io/lastkaj-0)  
 
