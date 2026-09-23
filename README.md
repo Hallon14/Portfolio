@@ -12,7 +12,7 @@ Developer: GOTT MOS GAMES
 Engine: Unreal Engine
 Genré: Puzzle
 
-<img src="Images\DAAC-Keyart-Sqr.png"/>
+<img src="images\Logo_lastkaj_0.png"/>
 
 ---
 
