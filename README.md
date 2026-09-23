@@ -9,7 +9,9 @@ Project Lead and Gameplay Programmer
 *2026 April - 2026 June*
 
 *Developer:* GOTT MOS GAMES 
+
 *Engine:* Unreal Engine 
+
 *Genré:* Puzzle 
 
 <img src="images\Logo_lastkaj_0.png"/>
