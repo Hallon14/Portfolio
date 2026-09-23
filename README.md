@@ -27,10 +27,10 @@ Team: 3 Programmers and 4 Artists
 
 <table>
   <tr>
-    <td width="100%"><img src="images\Florida man logo simple.png" /></td>
+    <td width="100%"><td height="50%"><img src="images\Florida man logo simple.png" /></td>
   </tr>
   <tr>
-    <td width="100%"><img src="images\FacePlantFrame 6.png" /></td>
+    <td width="100%"><img src="images\FacePlant Frame 6.png" /></td>
   </tr>
 </table>
 
