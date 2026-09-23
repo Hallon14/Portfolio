@@ -44,5 +44,5 @@ Team: 3 Programmers and 4 Artists
 
 **YRGO Zero Hour Game Jam 2025** - [Falling Forms](https://gphallon.itch.io/falling-form) <-- Playable in browser
 
-**YRGO In House Game Jam Autumn 2025** - [I have trouble making friends, so I'll reanimate the dead] - (https://gphallon.itch.io/i-have-trouble-making-friends-so-ill-reanimate-the-dead)
+**YRGO In House Game Jam Autumn 2025** - [I have trouble making friends, so I'll reanimate the dead](https://gphallon.itch.io/i-have-trouble-making-friends-so-ill-reanimate-the-dead)
 
