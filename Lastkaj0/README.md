@@ -1,8 +1,8 @@
 # ***Lastkaj 0***
 
+[Website](https://yrgo.itch.io/lastkaj-0)  
 <img src="images/SGA_POSTER_LASTKAJ0.jpg" width="50%"/>
 
-[Website](https://yrgo.itch.io/lastkaj-0)  
 
 Worked as **Project Lead and Gameplay/Systems programmer**  
 *April -26 -> June -26*
