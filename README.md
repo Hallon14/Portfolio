@@ -18,9 +18,9 @@ Project Lead and Gameplay Programmer
 
 ## [***Florida Man On The Run***](FloridaMan#FloridaMan) ← Click here for more info!
 Gameplay and Systems Programmer
-*2025 November - 2026 Januart
+*2025 November - 2026 January*
 
-Developed: 
+Developer: Grupp 3 
 Engine: Unity  
 Genré: 2D, Platformer, Skate
 Team: 3 Programmers and 4 Artists
