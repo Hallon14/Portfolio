@@ -27,12 +27,10 @@ Team: 3 Programmers and 4 Artists
 
 <table>
   <tr>
-    <td width="50%"><img src="Images\MrA_Mixing.png" /></td>
-    <td width="50%"><img src="Images\MrA_Crushing.png" /></td>
+    <td width="100%"><img src="images\Florida man logo simple.png" /></td>
   </tr>
   <tr>
-    <td width="50%"><img src="Images\MrA_Scanning.png" /></td>
-    <td width="50%"><img src="Images\MrA_Dispensers.png" /></td>
+    <td width="100%"><img src="images\FacePlantFrame 6.png" /></td>
   </tr>
 </table>
 
