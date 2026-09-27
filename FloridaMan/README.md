@@ -15,8 +15,8 @@ Overview text
 
 <table>
   <tr>
-    <td ><img src="Images\DAAC-GIFs-001.gif"/></td>
-    <td ><img src="Images\DAAC-GIFs-002.gif"/></td>
+    <td ><img src="2fWUgo.jpg"/></td>
+    <td ><img src="aDJkOS.jpg"/></td>
   </tr>
 </table>
 
