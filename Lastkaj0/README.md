@@ -11,7 +11,9 @@ In Lastkaj 0 the player takes on the role as a cargo inspector entering cargo co
 Equipped only with his/hers multitool the inspector has to figure out a way to retrieve the anomalies hidden inside. 
 Each container presents itself with new challenges to overcome, emersing the player in a challenging 3D puzzle environment
 
-## Gameplay
+---
+
+## My Contributions
 
 <table>
   <tr>
