@@ -25,7 +25,7 @@ Each container presents itself with new challenges to overcome, emersing the pla
 ## My Contributions
 
 **Project Lead**
-
+---
 During the 8 weeks this project were in development I took on the role as Project Lead. As this was a student project there was a sense of democracy and each individual had equal chance for input to affect the direction of the project. I held weekly meetings to maintain a professional structure and keep the project on track.
 
 I tracked the progress of individual tasks and set up priority lists to ensure a smooth development that align with weekly goals set in the aforementioned meetings.
@@ -33,6 +33,7 @@ I tracked the progress of individual tasks and set up priority lists to ensure a
 We also held weekly playtests. These playtests were evaluated during our meetings. With the help of my team, I evaluated the feedback from the players - transforming the opinions into valuable information that helped shape the outcome of the project.
 
 **Gameplay programmer**
+---
 During early development I worked a lot with the firearm presented in the game, the SMT. The functionality of the SMT evolved constantly the first few weeks. From a projectile based weapon into what became the center piece of all puzzle's presented.
 
 The end result of the SMT is that by line tracing it can activate and deactivate certain objects. Too add complexity to the puzzles we chose to have two "charges" meaning you did not have to activate each object immediately. This presented a challenge in form of player feedback that I had to solve.
