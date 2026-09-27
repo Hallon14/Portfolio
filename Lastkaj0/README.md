@@ -47,7 +47,10 @@ Each cargo container is it's own puzzle and thus had to be:
 - Versatile to change as feedback from our playtests would introduce constant change to the pacing of the game.
 - Able to show the inside of each container. to further improve the illusion of them being bigger on the inside.
 
-Bla bla
+I developed a data table that allowed my level designer to simply enter an integer as ID for each level/container. I chose to spawn each container at a height, thus being able to lower them individually making them accessible to the player when I wanted. As the goal for the player was to retrieve an anomaly from each container it became trivial to lower each container in the correct order. I used a day/night cycle to load / unload the containers. Allowing me to spawn them 4 / 5 at a time. 
+The data table contained information about how many containers to spawn each day, and what ID each container had. Making it trivial to change how many levels we had and when to present the levels to the player. Upon meeting the progress criteria for each container, it would lower itself from the ceiling. Allowing the player to access the next puzzle. 
+
+The "bigger-on-the-inside" effect was obtained by teleporting the player from the main play area to subareas. This also allowed me to load / unload certain areas of the game. Making it run more smooth. I developed a portal effect with the Unreal Engine Niagara system. When the player walks close to an active container, the corresponding puzzle would be loaded into memory and a second camera (located in the puzzle area) would read the position of the player and display the inside of the puzzle area.
 
 ---
 
