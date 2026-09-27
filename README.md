@@ -5,26 +5,33 @@ A repository containing all the information necessary to get to know me as a pro
 
 ## [***Lastkaj 0***](Lastkaj0#Lastkaj0) ← Click here for more info!
 
-Project Lead and Gameplay Programmer  
+My Role: Project Lead and Gameplay Programmer
+
 *2026 April - 2026 June*
 
-*Developer:* GOTT MOS GAMES 
+Developer: GOTT MOS GAMES 
 
-*Engine:* Unreal Engine 
+Engine: Unreal Engine 
 
-*Genré:* Puzzle 
+Genré: Puzzle 
+
+Team: 3 Programmers, 4 Artists
 
 <img src="images\Logo_lastkaj_0.png"/>
 
 ---
 
 ## [***Florida Man On The Run***](FloridaMan#FloridaMan) ← Click here for more info!
-Gameplay and Systems Programmer
+My Role: Gameplay and Systems Programmer
+
 *2025 November - 2026 January*
 
 Developer: Grupp 3 
+
 Engine: Unity  
+
 Genré: 2D, Platformer, Skate
+
 Team: 3 Programmers and 4 Artists
 
 <table>
