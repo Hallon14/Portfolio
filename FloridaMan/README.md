@@ -15,8 +15,8 @@ Overview text
 
 <table>
   <tr>
-    <td ><img src="2fWUgo.jpg"/></td>
-    <td ><img src="aDJkOS.jpg"/></td>
+    <td ><img src="images/2fWUgo.jpg"/></td>
+    <td ><img src="images/aDJkOS.jpg"/></td>
   </tr>
 </table>
 
