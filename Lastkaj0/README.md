@@ -32,6 +32,8 @@ I tracked the progress of individual tasks and set up priority lists to ensure a
 
 We also held weekly playtests. These playtests were evaluated during our meetings. With the help of my team, I evaluated the feedback from the players - transforming the opinions into valuable information that helped shape the outcome of the project.
 
+---
+
 **Gameplay programmer**
 ---
 During early development I worked a lot with the firearm presented in the game, the SMT. The functionality of the SMT evolved constantly the first few weeks. From a projectile based weapon into what became the center piece of all puzzle's presented.
@@ -53,5 +55,11 @@ The data table contained information about how many containers to spawn each day
 The "bigger-on-the-inside" effect was obtained by teleporting the player from the main play area to subareas. This also allowed me to load / unload certain areas of the game. Making it run more smooth. I developed a portal effect with the Unreal Engine Niagara system. When the player walks close to an active container, the corresponding puzzle would be loaded into memory and a second camera (located in the puzzle area) would read the position of the player and display the inside of the puzzle area.
 
 ---
+
+**Other**
+---
+I also had a hand in level design. Producing a few levels that either introduces a new concept of the SMT to the player or utilizing all of the functions the SMT has to offer.
+I am especially proud of one puzzle, the last one featured in the game (at the moment of writing) forcing players the use the same area of the container for multiple purposes. Thinking trough the order of activations and what objects are available to them at any given time are key to solve that level. 
+
 
 
