@@ -4,7 +4,7 @@
 <img src="images/SGA_POSTER_LASTKAJ0.jpg" width="50%"/>
 
 ## Overview
-Worked as **Project Lead and Gameplay/Systems programmer**  
+Worked as **Project Lead and Gameplay programmer**  
 In development between: *April -26 -> June -26*
 
 In Lastkaj 0 the player takes on the role as a cargo inspector entering cargo containers with warped reality.
@@ -24,9 +24,29 @@ Each container presents itself with new challenges to overcome, emersing the pla
 
 ## My Contributions
 
+**Project Lead**
 
-**Titel**
-- På saker jag gjorde
+During the 8 weeks this project were in development I took on the role as Project Lead. As this was a student project there was a sense of democracy and each individual had equal chance for input to affect the direction of the project. I held weekly meetings to maintain a professional structure and keep the project on track.
+
+I tracked the progress of individual tasks and set up priority lists to ensure a smooth development that align with weekly goals set in the aforementioned meetings.
+
+We also held weekly playtests. These playtests were evaluated during our meetings. With the help of my team, I evaluated the feedback from the players - transforming the opinions into valuable information that helped shape the outcome of the project.
+
+**Gameplay programmer**
+During early development I worked a lot with the firearm presented in the game, the SMT. The functionality of the SMT evolved constantly the first few weeks. From a projectile based weapon into what became the center piece of all puzzle's presented.
+
+The end result of the SMT is that by line tracing it can activate and deactivate certain objects. Too add complexity to the puzzles we chose to have two "charges" meaning you did not have to activate each object immediately. This presented a challenge in form of player feedback that I had to solve.
+
+The SMT features a small screen and two LED's that I applied logic for. The screen lights up when aiming at a valid target, ergo a target the player can activate and the LED's indicate the charge state for each charge. It was an interesting challenge to make the SMT stand out, due to it being static in front of the player. It was often overlooked so the details had to be just right. For example the LED had to glow bright enough to stand out, but not overpower to overpower the vision of the player. It also had to illuminate at the right rate. Too slow and no one would notice, and if it were too fast it felt unnatural.
+
+My main contributing however was our containers.
+Each cargo container is it's own puzzle and thus had to be:
+- Larger on the inside, so we had enough space to present the player with an interesting puzzle and sell the illusion of something otherworldly.
+- Presented in the correct order, leading to the correct space. So that we could introduce them in increasing complexity and slowly introduce new mechanics.
+- Versatile to change as feedback from our playtests would introduce constant change to the pacing of the game.
+- Able to show the inside of each container. to further improve the illusion of them being bigger on the inside.
+
+Bla bla
 
 ---
 
