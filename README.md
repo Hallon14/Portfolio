@@ -36,8 +36,9 @@ Team: 3 Programmers and 4 Artists
 
 <table>
   <tr>
-    <td width="50%"><img src="images\Florida man logo simple.png" /></td>
-    <td width="50%"><img src="images\FacePlant Frame 6.png" /></td>
+    <td width="33%"><img src="images\Florida man logo simple.png" /></td>
+    <td width="33%"><img src="images\FacePlant Frame 6.png" /></td>
+    <td width="33%"><img src="FloridaMan\images\Alligator Sprite.png(" /></td>
   </tr>
 </table>
 
