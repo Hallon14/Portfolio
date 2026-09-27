@@ -1,7 +1,7 @@
 # ***Florida Man On The Run***
 
 <p align="center">
-  [Website](https://yrgo.itch.io/florida-man-on-the-run)
+  <a href="https://yrgo.itch.io/florida-man-on-the-run">Website</a>
 </p>
 
 <img src="images/h5gYZb.png"/>
