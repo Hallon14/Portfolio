@@ -1,6 +1,8 @@
 # ***Florida Man On The Run***
 
-[Website](https://yrgo.itch.io/florida-man-on-the-run)
+<p align="center">
+  [Website](https://yrgo.itch.io/florida-man-on-the-run)
+</p>
 
 <img src="images/h5gYZb.png"/>
 
