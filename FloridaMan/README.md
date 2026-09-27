@@ -1,8 +1,8 @@
 # ***Florida Man On The Run***
 
 [Website]([https://yrgo.itch.io/lastkaj-0](https://yrgo.itch.io/florida-man-on-the-run))
+<img src="images/h5hYZb.png" width="50%"/>
 
-<img src="images/h5hYZb.png"/>
 
 ## Overview
 Worked as **System/Gameplay programmer**  
