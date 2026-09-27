@@ -31,7 +31,7 @@ The scenery is created to put the player in fun, comical situations with absurd 
 
 **System programmer**
 ---
-During development we needed a way to place rails to do basic skateboard tricks on. It was a tedious process to manually set up the rail sprite and connect them on a parent object with a singular collider.
+During development we needed a way to place rails to do basic skateboard tricks on. It was a tedious process to manually set up each rail sprite and connect them on a parent object with a singular collider.
 
 I developed an editor script allowing our level designer to use Unity's splines to quickly draw the shape of the entire rail section he wanted to implement, and by the press of a button, generate a parent object, place the sprites accordingly and perfectly align a collider to the entire section.
 
@@ -42,7 +42,15 @@ I also set up a quest system. Utilizing Unity's scriptable object to quickly mak
 
 **Gameplay programmer**
 ---
-Yeehaw
+Florida man uses a state machine to handle physics changes when wall riding and to keep track of the players tricks and inputs. I set this state machine up and implemented some of it's states. Among others I've written the code for grinding on rails. 
+
+We needed a way to attach and detach from the rails' collider that felt smooth and intuitive. After a lot of small changes and tweaks I managed a result I was happy with.
+
 ---
 
+**Other**
+---
+I also had a hand in developing levels. Using the aforementioned tool for creating rails I could introduce different route's to finish levels as well as loops. Resulting in increased replayability and more game depth for the players.
+
+---
 
