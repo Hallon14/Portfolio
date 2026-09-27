@@ -13,8 +13,6 @@ Each container presents itself with new challenges to overcome, emersing the pla
 
 ---
 
-## My Contributions
-
 <table>
   <tr>
     <td ><img src="Images\DAAC-GIFs-001.gif"/></td>
@@ -22,16 +20,14 @@ Each container presents itself with new challenges to overcome, emersing the pla
   </tr>
 </table>
 
+---
+
+## My Contributions
+
+
 **Titel**
 - På saker jag gjorde
 
 ---
 
-## Game Design
 
-<table>
-  <tr>
-    <td ><img src="Images\DAAC-GIFs-003.gif"/></td>
-     <td ><img src="Images\DAAC-GIFs-004.gif"/></td>
-  </tr>
-</table>
