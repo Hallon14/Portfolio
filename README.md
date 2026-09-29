@@ -9,8 +9,6 @@ My Role: Project Lead and Gameplay Programmer
 
 *2026 April - 2026 June*
 
-Developer: GOTT MOS GAMES 
-
 Engine: Unreal Engine 
 
 Genré: Puzzle 
@@ -25,8 +23,6 @@ Team: 3 Programmers, 4 Artists
 My Role: Gameplay and Systems Programmer
 
 *2025 November - 2026 January*
-
-Developer: Grupp 3 
 
 Engine: Unity  
 
